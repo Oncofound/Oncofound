@@ -1,4 +1,4 @@
-# OncoFound — Pancancer 3D DINO
+# OncoFound
 
 Self-supervised 3D foundation-model training, feature extraction, and downstream
 classification finetuning for multi-modal pancancer medical imaging.
