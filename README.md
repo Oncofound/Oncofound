@@ -3,6 +3,9 @@
 Self-supervised 3D foundation-model training, feature extraction, and downstream
 classification finetuning for multi-modal pancancer medical imaging.
 
+You can also download and browse the full code at
+[https://github.com/Oncofound/Oncofound](https://github.com/Oncofound/Oncofound).
+
 The repository contains three parts:
 
 1. **Pretraining** — 3D DINOv3 (ViT-Large, patch 16) with iBOT, warmup + pretrain.
