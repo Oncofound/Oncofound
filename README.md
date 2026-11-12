@@ -71,8 +71,9 @@ The CSV lists one row per case with a `PatientID` column and one-hot class colum
 - Downstream classification checkpoint: download from the **GitHub Release** of this
   repository and place it under `weights/classification_best.pt`.
 - Pretraining weights are not released; use your own checkpoints for training.
-- A 20-case demo feature set is provided under `data/demo/` (features in
-  `data/demo/features/`, labels in `data/demo/labels.csv`).
+- A 20-case demo feature set (MRI I-SPY1 laterality classification, 10 left + 10
+  right) is provided under `data/demo/` (features in `data/demo/features/`, labels in
+  `data/demo/labels.csv`).
 
 ## License
 
