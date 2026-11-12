@@ -75,9 +75,6 @@ The CSV lists one row per case with a `PatientID` column and one-hot class colum
 
 The original code in this repository is released under the [MIT License](LICENSE).
 
-The `dinov3` subpackage is derived from Meta's DINOv3 and is distributed under the
-[DINOv3 License](LICENSE.md); it retains its original license header.
-
 ## Acknowledgements
 
 This project builds on [DINOv3](https://github.com/facebookresearch/dinov3) by Meta AI.
